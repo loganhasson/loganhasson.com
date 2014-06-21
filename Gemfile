@@ -13,6 +13,7 @@ gem 'figaro'
 gem 'bootstrap-sass', '~> 3.1.1'
 gem 'devise'
 gem 'airbrake'
+gem 'capistrano', '~> 2.15.5'
 
 group :test, :development do
   gem 'rspec-rails'
